@@ -1,0 +1,10 @@
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,16 @@
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ClassLibrary.dll
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ClassLibrary.pdb
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ClassLibrary.dll
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\bin\Debug\ClassLibrary.pdb
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Demetrius\OneDrive\Документы\Visual Studio 2015\Projects\GenericStudents\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
